@@ -12,9 +12,9 @@
     "name": "typicode"
   },
   "fruits": [
-    {"name" : "蘋果" , "amount": 10 },  
-    {"name" : "橘子" , "amount": 5 },
-    {"name" : "香蕉" , "amount": 100 }
+    { "id": 1, "name" : "蘋果" , "amount": 10 },  
+    { "id": 2, "name" : "橘子" , "amount": 5 },
+    { "id": 3, "name" : "香蕉" , "amount": 100 }
   ],
   "fruitsGroup": {
     "groupA": [
@@ -24,6 +24,36 @@
     ],
     "groupB": [
       {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
+      {"name" : "櫻桃" , "amount": 45 },
+      {"name" : "蓮霧" , "amount": 70 },
+            {"name" : "柳橙" , "amount": 20 },  
       {"name" : "櫻桃" , "amount": 45 },
       {"name" : "蓮霧" , "amount": 70 }
     ]
