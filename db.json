@@ -11,4 +11,9 @@
   "profile": {
     "name": "typicode"
   }
+  "fruits": {
+    {"name" : "蘋果" , "amount": 10 },  
+    {"name" : "橘子" , "amount": 5 },
+    {"name" : "香蕉" , "amount": 100 }
+  }
 }
