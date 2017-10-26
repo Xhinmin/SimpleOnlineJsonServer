@@ -16,7 +16,7 @@
     {"name" : "橘子" , "amount": 5 },
     {"name" : "香蕉" , "amount": 100 }
   ],
-  "fruitsGroup": [
+  "fruitsGroup": {
     "groupA": [
       {"name" : "蘋果" , "amount": 10 },  
       {"name" : "橘子" , "amount": 5 },
@@ -27,5 +27,5 @@
       {"name" : "櫻桃" , "amount": 45 },
       {"name" : "蓮霧" , "amount": 70 }
     ]
-  ]
+  }
 }
